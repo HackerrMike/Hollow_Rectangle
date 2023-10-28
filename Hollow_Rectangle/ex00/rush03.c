@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   rush03.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ntalmon <ntalmon@student.42.fr>            +#+  +:+       +#+        */
+/*   By: ntalmon & tpaesh <ntalmon@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/20 16:34:31 by ntalmon           #+#    #+#             */
 /*   Updated: 2023/08/20 17:34:58 by ntalmon          ###   ########.fr       */
